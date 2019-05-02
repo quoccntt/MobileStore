@@ -1,0 +1,15 @@
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Service.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Service.pdb
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Common.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Data.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Model.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Common.pdb
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Data.pdb
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Data.dll.config
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Model.pdb
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\bin\Debug\MobileStore.Model.dll.config
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\obj\Debug\MobileStore.Service.csprojAssemblyReference.cache
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\obj\Debug\MobileStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\obj\Debug\MobileStore.Service.csproj.CopyComplete
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\obj\Debug\MobileStore.Service.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Service\obj\Debug\MobileStore.Service.pdb

@@ -1,0 +1,14 @@
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\MobileStore.Data.dll.config
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\MobileStore.Data.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\MobileStore.Data.pdb
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\MobileStore.Common.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\MobileStore.Common.pdb
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\obj\Debug\MobileStore.Data.csprojAssemblyReference.cache
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\obj\Debug\MobileStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\obj\Debug\MobileStore.Data.csproj.CopyComplete
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\obj\Debug\MobileStore.Data.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Data\obj\Debug\MobileStore.Data.pdb

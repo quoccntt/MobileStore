@@ -1,0 +1,6 @@
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Common\bin\Debug\MobileStore.Common.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Common\bin\Debug\MobileStore.Common.pdb
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Common\obj\Debug\MobileStore.Common.csprojAssemblyReference.cache
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Common\obj\Debug\MobileStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Common\obj\Debug\MobileStore.Common.dll
+C:\Users\QuocCNTT\Downloads\Do An\MobileStore\MobileStore.Common\obj\Debug\MobileStore.Common.pdb
